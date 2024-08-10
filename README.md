@@ -33,22 +33,20 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+Full Name: Mikael Aziz
+Womanium Program Enrollment ID: WQ24-i1bI0KrCQcPIoEy
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
+Full Name: Mariam Khaled Abdo Ahmed
+Womanium Program Enrollment ID: WQ24-fC5YpFE4PRlgp34
 
 Team Member 3:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
+Full Name: Isabella Siu
+Womanium Program Enrollment ID: WQ24-21XPholzNYYDnHb
 
 Team Member 4:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+Full Name: Menna Zaied
+Womanium Porgram Enrollment ID: WQ24-OZ8RcHaasgF9ExB
 
 
 ### Project Solution:
@@ -59,4 +57,6 @@ All necessary code files and any additional information required to judge your p
 _Upload/ Link a 3min. presentation deck here._
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
+
+Project presentation is linked [here](https://docs.google.com/presentation/d/1fy7YM3ZMF7icfW8yqiO7SdBwuvaqjBfh/edit?usp=drivesdk&ouid=100600892558271848985&rtpof=true&sd=true)
 
